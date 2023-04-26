@@ -1,16 +1,15 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-26 02:12:04
-# DOMAIN: 147
+# UPDATED: 2023-04-27 02:11:30
+# DOMAIN: 144
 # DOMAIN-KEYWORD: 3
 # DOMAIN-SUFFIX: 114
 # IP-CIDR: 5
 # IP-CIDR6: 2
-# TOTAL: 271
+# TOTAL: 268
 payload:
   - DOMAIN,1337.abcvg.info
-  - DOMAIN,6ahddutb1ucc3cp.ru
   - DOMAIN,9.rarbg.com
   - DOMAIN,aarsen.me
   - DOMAIN,acxx.de
@@ -36,6 +35,7 @@ payload:
   - DOMAIN,explodie.org
   - DOMAIN,fe.dealclub.de
   - DOMAIN,fh2.cmp-gaming.com
+  - DOMAIN,freedom.1776.ga
   - DOMAIN,htz3.noho.st
   - DOMAIN,hub.bugout.link
   - DOMAIN,inferno.demonoid.is
@@ -63,7 +63,6 @@ payload:
   - DOMAIN,private.anonseed.com
   - DOMAIN,psyco.fr
   - DOMAIN,public.publictracker.xyz
-  - DOMAIN,public.tracker.vraphim.com
   - DOMAIN,rep-art.ynh.fr
   - DOMAIN,retracker.hotplug.ru
   - DOMAIN,retracker.lanta-net.ru
@@ -89,8 +88,8 @@ payload:
   - DOMAIN,tr.bangumi.moe
   - DOMAIN,tr.burnabyhighstar.com
   - DOMAIN,tr.cili001.com
-  - DOMAIN,tr.ready4.icu
   - DOMAIN,tr2.cubonegro.lol
+  - DOMAIN,tracker-udp.gbitt.info
   - DOMAIN,tracker.4.babico.name.tr
   - DOMAIN,tracker.altrosky.nl
   - DOMAIN,tracker.arcbox.cc
@@ -99,7 +98,6 @@ payload:
   - DOMAIN,tracker.beeimg.com
   - DOMAIN,tracker.birkenwald.de
   - DOMAIN,tracker.bitsearch.to
-  - DOMAIN,tracker.bittor.pw
   - DOMAIN,tracker.bt4g.com
   - DOMAIN,tracker.cubonegro.lol
   - DOMAIN,tracker.cyberia.is
@@ -116,6 +114,7 @@ payload:
   - DOMAIN,tracker.leech.ie
   - DOMAIN,tracker.lilithraws.cf
   - DOMAIN,tracker.lilithraws.org
+  - DOMAIN,tracker.logirl.moe
   - DOMAIN,tracker.loligirl.cn
   - DOMAIN,tracker.mlsub.net
   - DOMAIN,tracker.moeking.me
@@ -134,7 +133,6 @@ payload:
   - DOMAIN,tracker.theoks.net
   - DOMAIN,tracker.tiny-vps.com
   - DOMAIN,tracker.torrent.eu.org
-  - DOMAIN,tracker.zerobytes.xyz
   - DOMAIN,tracker1.520.jp
   - DOMAIN,tracker1.bt.moack.co.kr
   - DOMAIN,tracker1.itzmx.com
@@ -147,7 +145,6 @@ payload:
   - DOMAIN,u6.trakx.crim.ist
   - DOMAIN,uploads.gamecoast.net
   - DOMAIN,v1046920.hosted-by-vdsina.ru
-  - DOMAIN,v2.iperson.xyz
   - DOMAIN,v6-tracker.0g.cx
   - DOMAIN,vps-dd0a0715.vps.ovh.net
   - DOMAIN,wepzone.net
