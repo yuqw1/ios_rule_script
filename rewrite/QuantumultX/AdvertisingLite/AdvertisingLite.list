@@ -1,12 +1,12 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-18 02:14:42
+# UPDATED: 2023-04-28 02:15:41
 # HOST-KEYWORD: 27
 # IP-CIDR: 184
-# REJECT: 529
-# MITM: 437
-# TOTAL: 1177
+# REJECT: 530
+# MITM: 438
+# TOTAL: 1179
 HOST-KEYWORD,admarvel,AdvertisingLite
 HOST-KEYWORD,admaster,AdvertisingLite
 HOST-KEYWORD,adsage,AdvertisingLite

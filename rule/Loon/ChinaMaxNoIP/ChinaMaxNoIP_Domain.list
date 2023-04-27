@@ -1,12 +1,12 @@
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-27 02:12:18
+# UPDATED: 2023-04-28 02:13:49
 # DOMAIN: 166
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 66641
+# DOMAIN-SUFFIX: 66640
 # USER-AGENT: 65
-# TOTAL: 66885
+# TOTAL: 66884
 265.com
 2mdn-cn.net
 accounts.googlers.com
@@ -31397,7 +31397,6 @@ xn--flw351e.com
 .iz55.com
 .izacholsm.com
 .izaodao.com
-.izatcloud.net
 .izazamall.com
 .izdatatech.com
 .izestchina.com

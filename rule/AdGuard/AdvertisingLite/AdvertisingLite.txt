@@ -1,8 +1,8 @@
 ! Title: AdvertisingLite
 ! Author: blackmatrix7
 ! Homepage: https://github.com/blackmatrix7/ios_rule_script
-! Updated: 2023-04-27 02:06:51
-! Total: 37242
+! Updated: 2023-04-28 02:07:15
+! Total: 37258
 
 
 ||00-gov.cn^
@@ -4512,11 +4512,13 @@
 ||analytics.bloomberg.com^
 ||analytics.blue^
 ||analytics.brandcrumb.com^
+||analytics.clickpathmedia.com^
 ||analytics.cmg.net^
 ||analytics.cnd-motionmedia.de^
 ||analytics.cohesionapps.com^
 ||analytics.conmio.com^
 ||analytics.cynapse.com^
+||analytics.datahc.com^
 ||analytics.dol.gr^
 ||analytics.edgekey.net^
 ||analytics.edgesuite.net^
@@ -4566,6 +4568,7 @@
 ||analytics.sonymusic.com^
 ||analytics.sportybet.com^
 ||analytics.spotify.com^
+||analytics.styria.hr^
 ||analytics.suggestv.io^
 ||analytics.talkingdata.net^
 ||analytics.techweb.com.cn^
@@ -8214,6 +8217,7 @@
 ||clickr.xyz^
 ||clickredirection.com^
 ||clickreport.com^
+||clicks.hurriyet.com.tr^
 ||clicks.istripper.com^
 ||clicks.superpages.com^
 ||clicks.traffictrader.net^
@@ -8546,6 +8550,7 @@
 ||collect.igodigital.com^
 ||collect.ptengine.cn^
 ||collect.tealiumiq.com^
+||collect.tianya.cn^
 ||collecting.click^
 ||collection-day.com^
 ||collector-cdn.github.com^
@@ -19592,6 +19597,7 @@
 ||logs.dashlane.com^
 ||logs.datadoghq.com^
 ||logs.newapi.com^
+||logs.vmixcore.com^
 ||logsss.com^
 ||logstat.t.sfht.com^
 ||logua.com^
@@ -20309,6 +20315,7 @@
 ||m.tdiea.com^
 ||m.tiantianedu.net^
 ||m.to9g1f.cn^
+||m.trb.com^
 ||m.tuopp.com^
 ||m.tv12h.cn^
 ||m.u4q2.cn^
@@ -20581,7 +20588,6 @@
 ||marketing.kalahari.net^
 ||marketing.net.jumia.com.ng^
 ||marketing.nodesource.com^
-||marketing.tr.netsalesmedia.pl^
 ||marketingenhanced.com^
 ||marketizator.com^
 ||marketleverage.com^
@@ -20971,11 +20977,14 @@
 ||metric-agent.i10c.net^
 ||metric.inetcore.com^
 ||metric.ipv6test.net^
+||metric.nwsource.com^
 ||metricfast.com^
 ||metricool.com^
 ||metrics.apartments.com^
 ||metrics.bangbros.com^
+||metrics.cbn.com^
 ||metrics.cbslocal.com^
+||metrics.ee.co.uk^
 ||metrics.el-mundo.net^
 ||metrics.extremetech.com^
 ||metrics.feedroom.com^
@@ -21012,6 +21021,7 @@
 ||mfgyyqqjpp.com^
 ||mfhsvkepu.com^
 ||mfigasff.com^
+||mfio.cf^
 ||mfm.video.qq.com^
 ||mfsr.lenovomm.com^
 ||mftracking.com^
@@ -21906,6 +21916,7 @@
 ||mwhtoxix.com^
 ||mwjpk.com^
 ||mwlucuvbyrff.com^
+||mwor.gq^
 ||mwslcqfoifw.com^
 ||mwstats.net^
 ||mwtvrqokhbnidz.com^
@@ -23340,6 +23351,8 @@
 ||olvqbwxucv.com^
 ||olxt.top^
 ||olzwogofebrfh.com^
+||om.cbsi.com^
+||om.rogersmedia.com^
 ||omaceran.pw^
 ||omafaren.pw^
 ||omappapi.com^
@@ -23363,12 +23376,14 @@
 ||ommodatesjoin.info^
 ||ommunalspound.info^
 ||omni-ads.com^
+||omni.nine.com.au^
 ||omniconvert.com^
 ||omnikool.discovery.com^
 ||omnitagjs.com^
 ||omoaxaus.net^
 ||omparentcarage.info^
 ||omrdatacapture.com^
+||oms.expedia.com^
 ||omsama.info^
 ||omsyfxirjg.com^
 ||omtrdc.net^
@@ -26531,6 +26546,7 @@
 ||rdsig.yahoo.co.jp^
 ||rdsrv.com^
 ||rdstation.com.br^
+||rdtdlv.laredoute.fr^
 ||rdthuvynnwgind.com^
 ||rdtuijian.com^
 ||rdtylx.cn^
@@ -26542,6 +26558,7 @@
 ||re.m.taobao.com^
 ||re.taobao.com^
 ||re.taotaosou.com^
+||reachandrich.antevenio.com^
 ||reachforce.com^
 ||reachjunction.com^
 ||reachlocal.com^
@@ -29363,8 +29380,6 @@
 ||sssvd.china.com^
 ||sssyabhje.com^
 ||sstar.vip^
-||sstats.mora.jp^
-||sstats.oui.sncf^
 ||sstc360.com^
 ||ssucvdbxxlibn.com^
 ||ssypntfmi.com^
@@ -29478,6 +29493,7 @@
 ||stat.simba.taobao.com^
 ||stat.social^
 ||stat.tf.360.cn^
+||stat.tianya.cn^
 ||stat.timedg.com^
 ||stat.tongji.today^
 ||stat.ts.cn^
@@ -29618,7 +29634,6 @@
 ||stats.cz^
 ||stats.de^
 ||stats.developingperspective.com^
-||stats.dice.com^
 ||stats.digg.com^
 ||stats.dmp.ghac.cn^
 ||stats.extremetech.com^
@@ -31408,6 +31423,7 @@
 ||trackword.net^
 ||trackyourlinks.com^
 ||trackyourstats.com^
+||tracy.sadv.dadapro.com^
 ||tradeadexchange.com^
 ||tradeccl.com^
 ||tradecraft.s.llnwi.net^
@@ -32561,6 +32577,7 @@
 ||uscpn0c485wn.com^
 ||usebutton.com^
 ||usefomo.com^
+||useg.nextdigital.com.hk^
 ||useinsider.com^
 ||useitbetter.com^
 ||usejj.wangkl.com^
@@ -32979,6 +32996,7 @@
 ||vertster.com^
 ||verypopularwebsite.com^
 ||vestlitt.online^
+||vet0.carrefour-banque.fr^
 ||veta.naver.com^
 ||vette-porno.nl^
 ||veuzlkpnbujf.com^
@@ -33175,7 +33193,6 @@
 ||visto1.net^
 ||visualdna.com^
 ||visualrevenue.com^
-||visualscience.external.bbc.co.uk^
 ||visualsteel.net^
 ||visualwebsiteoptimizer.com^
 ||visx.net^
@@ -33388,7 +33405,6 @@
 ||vrvyearwxo.com^
 ||vrzparvhipmo.com^
 ||vs.funshion.com^
-||vs.target.com^
 ||vs19.gzcu.u3.ucweb.com^
 ||vs2.gzcu.u3.ucweb.com^
 ||vs3.com^
