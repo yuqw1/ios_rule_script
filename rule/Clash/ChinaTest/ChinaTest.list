@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-27 02:10:43
+# UPDATED: 2023-04-29 02:13:23
 # DOMAIN: 165
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 65460
+# DOMAIN-SUFFIX: 65462
 # IP-CIDR: 10
 # IP-CIDR6: 4
-# TOTAL: 65648
+# TOTAL: 65650
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdp.cloud.unity3d.com
@@ -24254,6 +24254,8 @@ DOMAIN-SUFFIX,feirar.com
 DOMAIN-SUFFIX,feiren.com
 DOMAIN-SUFFIX,feisan.net
 DOMAIN-SUFFIX,feishu-3rd-party-services.com
+DOMAIN-SUFFIX,feishu.net
+DOMAIN-SUFFIX,feishupkg.com
 DOMAIN-SUFFIX,feisu.com
 DOMAIN-SUFFIX,feitian001.com
 DOMAIN-SUFFIX,feitianwu7.com

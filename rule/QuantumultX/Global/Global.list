@@ -1,14 +1,15 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-28 02:11:38
-# HOST: 533
+# UPDATED: 2023-04-29 02:13:00
+# HOST: 539
 # HOST-KEYWORD: 39
-# HOST-SUFFIX: 19232
+# HOST-SUFFIX: 19233
 # IP-CIDR: 106
 # IP6-CIDR: 4
 # USER-AGENT: 46
-# TOTAL: 19960
+# TOTAL: 19967
+HOST,2mdn-cn.net,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
 HOST,3dns-3.adobe.com,Global
@@ -28,6 +29,7 @@ HOST,activate.wip3.adobe.com,Global
 HOST,activate.wip4.adobe.com,Global
 HOST,adcdownload.apple.com.akadns.net,Global
 HOST,addons.mozilla.org,Global
+HOST,admob-cn.com,Global
 HOST,adobe-dns-1.adobe.com,Global
 HOST,adobe-dns-2.adobe.com,Global
 HOST,adobe-dns-3.adobe.com,Global
@@ -146,6 +148,7 @@ HOST,dl.begellhouse.com,Global
 HOST,dlgarenanow-a.akamaihd.net,Global
 HOST,dlmobilegarena-a.akamaihd.net,Global
 HOST,dmqdd6hw24ucf.cloudfront.net,Global
+HOST,doubleclick-cn.net,Global
 HOST,download.visualstudio.microsoft.com,Global
 HOST,ds-linear-abematv.akamaized.net,Global
 HOST,ds-vod-abematv.akamaized.net,Global
@@ -182,6 +185,9 @@ HOST,github-cloud.s3.amazonaws.com,Global
 HOST,github.global.ssl.fastly.net,Global
 HOST,gitlab-assets.oss-cn-hongkong.aliyuncs.com,Global
 HOST,gog.qtlglb.com,Global
+HOST,googleoptimize-cn.com,Global
+HOST,googletagmanager-cn.com,Global
+HOST,googlevads-cn.com,Global
 HOST,gsp4-cn.ls.apple.com.edgekey.net,Global
 HOST,gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net,Global
 HOST,gspe19-cn.ls-apple.com.akadns.net,Global
@@ -8571,6 +8577,7 @@ HOST-SUFFIX,mucinex.cn,Global
 HOST-SUFFIX,mucinex.com,Global
 HOST-SUFFIX,mucinex.net,Global
 HOST-SUFFIX,mucinexprofessional.com,Global
+HOST-SUFFIX,mudfish.net,Global
 HOST-SUFFIX,muji.com,Global
 HOST-SUFFIX,muji.net,Global
 HOST-SUFFIX,mujikorea.net,Global

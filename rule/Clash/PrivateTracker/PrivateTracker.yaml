@@ -1,13 +1,13 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-28 02:12:50
-# DOMAIN: 148
+# UPDATED: 2023-04-29 02:14:27
+# DOMAIN: 150
 # DOMAIN-KEYWORD: 3
 # DOMAIN-SUFFIX: 114
 # IP-CIDR: 5
 # IP-CIDR6: 2
-# TOTAL: 272
+# TOTAL: 274
 payload:
   - DOMAIN,1337.abcvg.info
   - DOMAIN,9.rarbg.com
@@ -25,7 +25,6 @@ payload:
   - DOMAIN,bt1.archive.org
   - DOMAIN,bt1.letpo.com
   - DOMAIN,bt2.archive.org
-  - DOMAIN,camera.lei001.com
   - DOMAIN,carr.codes
   - DOMAIN,chouchou.top
   - DOMAIN,concen.org
@@ -64,6 +63,7 @@ payload:
   - DOMAIN,private.anonseed.com
   - DOMAIN,psyco.fr
   - DOMAIN,public.publictracker.xyz
+  - DOMAIN,public.tracker.vraphim.com
   - DOMAIN,rep-art.ynh.fr
   - DOMAIN,retracker.hotplug.ru
   - DOMAIN,retracker.lanta-net.ru
@@ -82,7 +82,6 @@ payload:
   - DOMAIN,thagoat.rocks
   - DOMAIN,thinking.duckdns.org
   - DOMAIN,thouvenin.cloud
-  - DOMAIN,torrent-tracker.hama3.net
   - DOMAIN,torrents.artixlinux.org
   - DOMAIN,torrentsmd.com
   - DOMAIN,tr.bangumi.moe
@@ -105,11 +104,13 @@ payload:
   - DOMAIN,tracker.cyberia.is
   - DOMAIN,tracker.dler.com
   - DOMAIN,tracker.dler.org
+  - DOMAIN,tracker.edkj.club
   - DOMAIN,tracker.filemail.com
   - DOMAIN,tracker.files.fm
   - DOMAIN,tracker.foreverpirates.co
   - DOMAIN,tracker.gbitt.info
   - DOMAIN,tracker.imgoingto.icu
+  - DOMAIN,tracker.ipv6tracker.ru
   - DOMAIN,tracker.jiesen.life
   - DOMAIN,tracker.jonaslsa.com
   - DOMAIN,tracker.joybomb.tw
@@ -136,6 +137,7 @@ payload:
   - DOMAIN,tracker.theoks.net
   - DOMAIN,tracker.tiny-vps.com
   - DOMAIN,tracker.torrent.eu.org
+  - DOMAIN,tracker.zerobytes.xyz
   - DOMAIN,tracker1.520.jp
   - DOMAIN,tracker1.bt.moack.co.kr
   - DOMAIN,tracker1.itzmx.com
