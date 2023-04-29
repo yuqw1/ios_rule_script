@@ -1,17 +1,16 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-29 02:14:27
-# DOMAIN: 150
+# UPDATED: 2023-04-30 02:12:02
+# DOMAIN: 146
 # DOMAIN-KEYWORD: 3
 # DOMAIN-SUFFIX: 114
 # IP-CIDR: 7
-# TOTAL: 274
+# TOTAL: 270
 DOMAIN,1337.abcvg.info
 DOMAIN,9.rarbg.com
 DOMAIN,aarsen.me
 DOMAIN,acxx.de
-DOMAIN,admin.52ywp.com
 DOMAIN,aegir.sexy
 DOMAIN,astrr.ru
 DOMAIN,bedro.cloud
@@ -21,7 +20,6 @@ DOMAIN,bt.endpot.com
 DOMAIN,bt.ktrackers.com
 DOMAIN,bt.okmp3.ru
 DOMAIN,bt1.archive.org
-DOMAIN,bt1.letpo.com
 DOMAIN,bt2.archive.org
 DOMAIN,carr.codes
 DOMAIN,chouchou.top
@@ -50,7 +48,6 @@ DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
 DOMAIN,open.stealth.si
-DOMAIN,open.tracker.cl
 DOMAIN,open.tracker.ink
 DOMAIN,opentor.org
 DOMAIN,opentracker.i2p.rocks
@@ -135,7 +132,6 @@ DOMAIN,tracker.tamersunion.org
 DOMAIN,tracker.theoks.net
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
-DOMAIN,tracker.zerobytes.xyz
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.bt.moack.co.kr
 DOMAIN,tracker1.itzmx.com
