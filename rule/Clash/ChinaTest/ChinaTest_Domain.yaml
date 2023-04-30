@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-29 02:13:23
+# UPDATED: 2023-05-01 02:10:55
 # DOMAIN: 165
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 65462
+# DOMAIN-SUFFIX: 65463
 # IP-CIDR: 10
 # IP-CIDR6: 4
-# TOTAL: 65650
+# TOTAL: 65651
 payload:
   - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
@@ -687,6 +687,7 @@ payload:
   - '+.berui.com'
   - '+.bestopview.com'
   - '+.bh3.com'
+  - '+.bhsr.com'
   - '+.biancheng.net'
   - '+.bianews.com'
   - '+.bibaodao.com'
@@ -775,8 +776,10 @@ payload:
   - '+.bytedns1.com'
   - '+.bytednsdoc.com'
   - '+.bytefcdn.com'
+  - '+.bytegecko.com'
   - '+.bytegoofy.com'
   - '+.bytegslb.com'
+  - '+.bytehwm.com'
   - '+.byteimg.com'
   - '+.bytelb.net'
   - '+.bytescm.com'
@@ -1426,7 +1429,9 @@ payload:
   - '+.feihuo.com'
   - '+.feiliao.com'
   - '+.feiniaomy.com'
+  - '+.feishu.net'
   - '+.feishucdn.com'
+  - '+.feishupkg.com'
   - '+.feizhu.com'
   - '+.feng.com'
   - '+.feng1.com'
@@ -15184,9 +15189,7 @@ payload:
   - '+.byteeffecttos.com'
   - '+.bytefae.com'
   - '+.bytefcdnrd.com'
-  - '+.bytegecko.com'
   - '+.bytegeckoext.com'
-  - '+.bytehwm.com'
   - '+.byteisland.com'
   - '+.bytemaimg.com'
   - '+.bytemastatic.com'
@@ -24255,8 +24258,6 @@ payload:
   - '+.feiren.com'
   - '+.feisan.net'
   - '+.feishu-3rd-party-services.com'
-  - '+.feishu.net'
-  - '+.feishupkg.com'
   - '+.feisu.com'
   - '+.feitian001.com'
   - '+.feitianwu7.com'

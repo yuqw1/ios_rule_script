@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-29 02:13:23
+# UPDATED: 2023-05-01 02:10:55
 # DOMAIN: 165
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 65462
+# DOMAIN-SUFFIX: 65463
 # IP-CIDR: 10
 # IP-CIDR6: 4
-# TOTAL: 65650
+# TOTAL: 65651
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -687,6 +687,7 @@ payload:
   - DOMAIN-SUFFIX,berui.com
   - DOMAIN-SUFFIX,bestopview.com
   - DOMAIN-SUFFIX,bh3.com
+  - DOMAIN-SUFFIX,bhsr.com
   - DOMAIN-SUFFIX,biancheng.net
   - DOMAIN-SUFFIX,bianews.com
   - DOMAIN-SUFFIX,bibaodao.com
@@ -775,8 +776,10 @@ payload:
   - DOMAIN-SUFFIX,bytedns1.com
   - DOMAIN-SUFFIX,bytednsdoc.com
   - DOMAIN-SUFFIX,bytefcdn.com
+  - DOMAIN-SUFFIX,bytegecko.com
   - DOMAIN-SUFFIX,bytegoofy.com
   - DOMAIN-SUFFIX,bytegslb.com
+  - DOMAIN-SUFFIX,bytehwm.com
   - DOMAIN-SUFFIX,byteimg.com
   - DOMAIN-SUFFIX,bytelb.net
   - DOMAIN-SUFFIX,bytescm.com
@@ -1426,7 +1429,9 @@ payload:
   - DOMAIN-SUFFIX,feihuo.com
   - DOMAIN-SUFFIX,feiliao.com
   - DOMAIN-SUFFIX,feiniaomy.com
+  - DOMAIN-SUFFIX,feishu.net
   - DOMAIN-SUFFIX,feishucdn.com
+  - DOMAIN-SUFFIX,feishupkg.com
   - DOMAIN-SUFFIX,feizhu.com
   - DOMAIN-SUFFIX,feng.com
   - DOMAIN-SUFFIX,feng1.com
@@ -15184,9 +15189,7 @@ payload:
   - DOMAIN-SUFFIX,byteeffecttos.com
   - DOMAIN-SUFFIX,bytefae.com
   - DOMAIN-SUFFIX,bytefcdnrd.com
-  - DOMAIN-SUFFIX,bytegecko.com
   - DOMAIN-SUFFIX,bytegeckoext.com
-  - DOMAIN-SUFFIX,bytehwm.com
   - DOMAIN-SUFFIX,byteisland.com
   - DOMAIN-SUFFIX,bytemaimg.com
   - DOMAIN-SUFFIX,bytemastatic.com
@@ -24255,8 +24258,6 @@ payload:
   - DOMAIN-SUFFIX,feiren.com
   - DOMAIN-SUFFIX,feisan.net
   - DOMAIN-SUFFIX,feishu-3rd-party-services.com
-  - DOMAIN-SUFFIX,feishu.net
-  - DOMAIN-SUFFIX,feishupkg.com
   - DOMAIN-SUFFIX,feisu.com
   - DOMAIN-SUFFIX,feitian001.com
   - DOMAIN-SUFFIX,feitianwu7.com

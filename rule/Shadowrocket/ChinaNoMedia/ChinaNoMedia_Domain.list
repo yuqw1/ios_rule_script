@@ -1,13 +1,13 @@
 # NAME: ChinaNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-24 02:15:03
+# UPDATED: 2023-05-01 02:12:00
 # DOMAIN: 19
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 3526
+# DOMAIN-SUFFIX: 3531
 # IP-CIDR: 14
 # USER-AGENT: 31
-# TOTAL: 3599
+# TOTAL: 3604
 analytics.strava.com
 blzddist1-a.akamaihd.net
 cdn.angruo.com
@@ -533,6 +533,7 @@ www.yxssp.com
 .berui.com
 .bestopview.com
 .bh3.com
+.bhsr.com
 .biancheng.net
 .bianews.com
 .bibaodao.com
@@ -600,8 +601,10 @@ www.yxssp.com
 .bytedns1.com
 .bytednsdoc.com
 .bytefcdn.com
+.bytegecko.com
 .bytegoofy.com
 .bytegslb.com
+.bytehwm.com
 .byteimg.com
 .bytelb.net
 .bytescm.com
@@ -1264,7 +1267,9 @@ www.yxssp.com
 .feihuo.com
 .feiliao.com
 .feiniaomy.com
+.feishu.net
 .feishucdn.com
+.feishupkg.com
 .feizhu.com
 .feng.com
 .feng1.com

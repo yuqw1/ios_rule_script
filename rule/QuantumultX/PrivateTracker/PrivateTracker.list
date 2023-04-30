@@ -1,13 +1,13 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-30 02:12:02
-# HOST: 146
+# UPDATED: 2023-05-01 02:11:41
+# HOST: 142
 # HOST-KEYWORD: 3
 # HOST-SUFFIX: 114
 # IP-CIDR: 5
 # IP6-CIDR: 2
-# TOTAL: 270
+# TOTAL: 266
 HOST,1337.abcvg.info,PrivateTracker
 HOST,9.rarbg.com,PrivateTracker
 HOST,aarsen.me,PrivateTracker
@@ -15,7 +15,6 @@ HOST,acxx.de,PrivateTracker
 HOST,aegir.sexy,PrivateTracker
 HOST,astrr.ru,PrivateTracker
 HOST,bedro.cloud,PrivateTracker
-HOST,black-bird.ynh.fr,PrivateTracker
 HOST,boysbitte.be,PrivateTracker
 HOST,bt.endpot.com,PrivateTracker
 HOST,bt.ktrackers.com,PrivateTracker
@@ -45,7 +44,6 @@ HOST,movies.zsw.ca,PrivateTracker
 HOST,new-line.net,PrivateTracker
 HOST,nyaa.tracker.wf,PrivateTracker
 HOST,open.acgnxtracker.com,PrivateTracker
-HOST,open.acgtracker.com,PrivateTracker
 HOST,open.demonii.com,PrivateTracker
 HOST,open.dstud.io,PrivateTracker
 HOST,open.stealth.si,PrivateTracker
@@ -72,7 +70,7 @@ HOST,stargrave.org,PrivateTracker
 HOST,static.54.161.216.95.clients.your-server.de,PrivateTracker
 HOST,t.133335.xyz,PrivateTracker
 HOST,t.acg.rip,PrivateTracker
-HOST,t.zerg.pw,PrivateTracker
+HOST,t.nyaatracker.com,PrivateTracker
 HOST,t1.hloli.org,PrivateTracker
 HOST,tamas3.ynh.fr,PrivateTracker
 HOST,thagoat.rocks,PrivateTracker
@@ -80,7 +78,6 @@ HOST,thinking.duckdns.org,PrivateTracker
 HOST,thouvenin.cloud,PrivateTracker
 HOST,torrents.artixlinux.org,PrivateTracker
 HOST,torrentsmd.com,PrivateTracker
-HOST,tr.bangumi.moe,PrivateTracker
 HOST,tr.burnabyhighstar.com,PrivateTracker
 HOST,tr.cili001.com,PrivateTracker
 HOST,tr.ready4.icu,PrivateTracker
@@ -100,7 +97,6 @@ HOST,tracker.cubonegro.lol,PrivateTracker
 HOST,tracker.cyberia.is,PrivateTracker
 HOST,tracker.dler.com,PrivateTracker
 HOST,tracker.dler.org,PrivateTracker
-HOST,tracker.edkj.club,PrivateTracker
 HOST,tracker.filemail.com,PrivateTracker
 HOST,tracker.files.fm,PrivateTracker
 HOST,tracker.foreverpirates.co,PrivateTracker
@@ -114,7 +110,6 @@ HOST,tracker.kuroy.me,PrivateTracker
 HOST,tracker.leech.ie,PrivateTracker
 HOST,tracker.lilithraws.cf,PrivateTracker
 HOST,tracker.lilithraws.org,PrivateTracker
-HOST,tracker.logirl.moe,PrivateTracker
 HOST,tracker.loligirl.cn,PrivateTracker
 HOST,tracker.mlsub.net,PrivateTracker
 HOST,tracker.moeking.me,PrivateTracker
@@ -133,6 +128,7 @@ HOST,tracker.tamersunion.org,PrivateTracker
 HOST,tracker.theoks.net,PrivateTracker
 HOST,tracker.tiny-vps.com,PrivateTracker
 HOST,tracker.torrent.eu.org,PrivateTracker
+HOST,tracker.zerobytes.xyz,PrivateTracker
 HOST,tracker1.520.jp,PrivateTracker
 HOST,tracker1.bt.moack.co.kr,PrivateTracker
 HOST,tracker1.itzmx.com,PrivateTracker

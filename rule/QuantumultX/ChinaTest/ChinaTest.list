@@ -1,15 +1,15 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-29 02:13:22
+# UPDATED: 2023-05-01 02:10:54
 # HOST: 165
 # HOST-KEYWORD: 9
-# HOST-SUFFIX: 65462
+# HOST-SUFFIX: 65463
 # HOST-WILDCARD: 1
 # IP-CIDR: 10
 # IP6-CIDR: 4
 # USER-AGENT: 31
-# TOTAL: 65682
+# TOTAL: 65683
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,cdp.cloud.unity3d.com,ChinaTest
@@ -688,6 +688,7 @@ HOST-SUFFIX,benmi.com,ChinaTest
 HOST-SUFFIX,berui.com,ChinaTest
 HOST-SUFFIX,bestopview.com,ChinaTest
 HOST-SUFFIX,bh3.com,ChinaTest
+HOST-SUFFIX,bhsr.com,ChinaTest
 HOST-SUFFIX,biancheng.net,ChinaTest
 HOST-SUFFIX,bianews.com,ChinaTest
 HOST-SUFFIX,bibaodao.com,ChinaTest
@@ -776,8 +777,10 @@ HOST-SUFFIX,bytedns.net,ChinaTest
 HOST-SUFFIX,bytedns1.com,ChinaTest
 HOST-SUFFIX,bytednsdoc.com,ChinaTest
 HOST-SUFFIX,bytefcdn.com,ChinaTest
+HOST-SUFFIX,bytegecko.com,ChinaTest
 HOST-SUFFIX,bytegoofy.com,ChinaTest
 HOST-SUFFIX,bytegslb.com,ChinaTest
+HOST-SUFFIX,bytehwm.com,ChinaTest
 HOST-SUFFIX,byteimg.com,ChinaTest
 HOST-SUFFIX,bytelb.net,ChinaTest
 HOST-SUFFIX,bytescm.com,ChinaTest
@@ -1427,7 +1430,9 @@ HOST-SUFFIX,fdcyun.com,ChinaTest
 HOST-SUFFIX,feihuo.com,ChinaTest
 HOST-SUFFIX,feiliao.com,ChinaTest
 HOST-SUFFIX,feiniaomy.com,ChinaTest
+HOST-SUFFIX,feishu.net,ChinaTest
 HOST-SUFFIX,feishucdn.com,ChinaTest
+HOST-SUFFIX,feishupkg.com,ChinaTest
 HOST-SUFFIX,feizhu.com,ChinaTest
 HOST-SUFFIX,feng.com,ChinaTest
 HOST-SUFFIX,feng1.com,ChinaTest
@@ -15185,9 +15190,7 @@ HOST-SUFFIX,byteedu.com,ChinaTest
 HOST-SUFFIX,byteeffecttos.com,ChinaTest
 HOST-SUFFIX,bytefae.com,ChinaTest
 HOST-SUFFIX,bytefcdnrd.com,ChinaTest
-HOST-SUFFIX,bytegecko.com,ChinaTest
 HOST-SUFFIX,bytegeckoext.com,ChinaTest
-HOST-SUFFIX,bytehwm.com,ChinaTest
 HOST-SUFFIX,byteisland.com,ChinaTest
 HOST-SUFFIX,bytemaimg.com,ChinaTest
 HOST-SUFFIX,bytemastatic.com,ChinaTest
@@ -24256,8 +24259,6 @@ HOST-SUFFIX,feirar.com,ChinaTest
 HOST-SUFFIX,feiren.com,ChinaTest
 HOST-SUFFIX,feisan.net,ChinaTest
 HOST-SUFFIX,feishu-3rd-party-services.com,ChinaTest
-HOST-SUFFIX,feishu.net,ChinaTest
-HOST-SUFFIX,feishupkg.com,ChinaTest
 HOST-SUFFIX,feisu.com,ChinaTest
 HOST-SUFFIX,feitian001.com,ChinaTest
 HOST-SUFFIX,feitianwu7.com,ChinaTest
