@@ -5,7 +5,7 @@
 使用模块
 
 ```ini
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/manmanbuy/manmanbuy_checkin.sgmodule
+https://raw.githubusercontent.com/yuqw1/ios_rule_script/master/script/manmanbuy/manmanbuy_checkin.sgmodule
 ```
 
 ### Quantumult X
@@ -14,10 +14,10 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/man
 
 ```ini
 [rewrite_remote]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/manmanbuy/manmanbuy_checkin.qxrewrite, tag=慢慢买_获取cookie, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/yuqw1/ios_rule_script/master/script/manmanbuy/manmanbuy_checkin.qxrewrite, tag=慢慢买_获取cookie, update-interval=86400, opt-parser=false, enabled=true
 
 [task_local]
-20 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/manmanbuy/manmanbuy_checkin.js, tag=慢慢买_每日签到, enabled=true
+20 0 * * * https://raw.githubusercontent.com/yuqw1/ios_rule_script/master/script/manmanbuy/manmanbuy_checkin.js, tag=慢慢买_每日签到, enabled=true
 ```
 
 ### Loon
@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/man
 
 ```ini
 [Remote Script]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/manmanbuy/manmanbuy_checkin.lnscript, tag=慢慢买_每日签到, enabled=true
+https://raw.githubusercontent.com/yuqw1/ios_rule_script/master/script/manmanbuy/manmanbuy_checkin.lnscript, tag=慢慢买_每日签到, enabled=true
 ```
 
 ## 获取Cookie
@@ -39,7 +39,7 @@ MagicJS利用Bark，实现了跨设备的统一推送能力，将多个iOS设备
 
 执行效果图，以饿了么为例：
 
-![](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/images/bark.jpg)
+![](https://raw.githubusercontent.com/yuqw1/ios_rule_script/master/script/eleme/images/bark.jpg)
 
 ### 开启统一推送
 
@@ -88,4 +88,4 @@ $prefs.setValueForKey("", "magicjs_unified_push_url");
 3. 限于Bark的功能，统一推送中的多媒体和链接不可用。
 4. 统一推送需要使用Bark的服务器，推送成功与否，与Bark服务器的可用性有关。
 5. 统一推送不会关闭APP的本地推送，即两个iOS设备都会有推送。
-6. 如有隐私考虑，可以参考Bark的服务端文档，自建服务端。
+6. 如有隐私考虑，可以参考Bark的服务端文档，自建服务端。yuqw1
